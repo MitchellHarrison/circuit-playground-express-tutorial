@@ -8,7 +8,7 @@ can start getting creative with your implementation!
 
 ### How to use this repo
 There is a folder for each component. There may be some functions or methods that aren't covered, but basic
-functionality will be covered. To run the code, replace your board's `code.py` file with the `code.py` file
+functionalityis included. To run the code, replace your board's `code.py` file with the `code.py` file
 included in each folder. There is also a `notes.md` file that you can read as a primer on what everything
 in `code.py` is doing. There will also be plenty of comments in `code.py`, but they won't necessarily go into as
 much depth.
